@@ -1,0 +1,4 @@
+C:\Users\omer\Desktop\שרת לקוח בסיס נתונים\Common\bin\Debug\Common.dll
+C:\Users\omer\Desktop\שרת לקוח בסיס נתונים\Common\bin\Debug\Common.pdb
+C:\Users\omer\Desktop\שרת לקוח בסיס נתונים\Common\obj\Debug\Common.dll
+C:\Users\omer\Desktop\שרת לקוח בסיס נתונים\Common\obj\Debug\Common.pdb

@@ -1,0 +1,21 @@
+c:\Users\omer\documents\visual studio 2015\Projects\project\prozect_client\bin\Debug\prozect_client.exe.config
+c:\Users\omer\documents\visual studio 2015\Projects\project\prozect_client\bin\Debug\prozect_client.exe
+c:\Users\omer\documents\visual studio 2015\Projects\project\prozect_client\bin\Debug\prozect_client.pdb
+c:\Users\omer\documents\visual studio 2015\Projects\project\prozect_client\obj\Debug\prozect_client.client.resources
+c:\Users\omer\documents\visual studio 2015\Projects\project\prozect_client\obj\Debug\prozect_client.Properties.Resources.resources
+c:\Users\omer\documents\visual studio 2015\Projects\project\prozect_client\obj\Debug\project_client.csproj.GenerateResource.Cache
+c:\Users\omer\documents\visual studio 2015\Projects\project\prozect_client\obj\Debug\prozect_client.exe
+c:\Users\omer\documents\visual studio 2015\Projects\project\prozect_client\obj\Debug\prozect_client.pdb
+C:\Users\omer\Desktop\שרת לקוח בסיס נתונים\prozect_client\bin\Debug\prozect_client.exe.config
+C:\Users\omer\Desktop\שרת לקוח בסיס נתונים\prozect_client\obj\Debug\prozect_client.exe
+C:\Users\omer\Desktop\שרת לקוח בסיס נתונים\prozect_client\obj\Debug\prozect_client.pdb
+C:\Users\omer\Desktop\שרת לקוח בסיס נתונים\prozect_client\bin\Debug\prozect_client.exe
+C:\Users\omer\Desktop\שרת לקוח בסיס נתונים\prozect_client\bin\Debug\prozect_client.pdb
+C:\Users\omer\Desktop\שרת לקוח בסיס נתונים\prozect_client\obj\Debug\prozect_client.client.resources
+C:\Users\omer\Desktop\שרת לקוח בסיס נתונים\prozect_client\obj\Debug\prozect_client.Properties.Resources.resources
+C:\Users\omer\Desktop\שרת לקוח בסיס נתונים\prozect_client\obj\Debug\project_client.csproj.GenerateResource.Cache
+C:\Users\omer\Desktop\שרת לקוח בסיס נתונים\prozect_client\obj\Debug\project_client.csprojResolveAssemblyReference.cache
+C:\Users\omer\Desktop\שרת לקוח בסיס נתונים\prozect_client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\omer\Desktop\שרת לקוח בסיס נתונים\prozect_client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\omer\Desktop\שרת לקוח בסיס נתונים\prozect_client\bin\Debug\Common.dll
+C:\Users\omer\Desktop\שרת לקוח בסיס נתונים\prozect_client\bin\Debug\Common.pdb
