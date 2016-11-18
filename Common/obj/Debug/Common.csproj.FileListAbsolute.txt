@@ -2,3 +2,8 @@ C:\Users\omer\Desktop\שרת לקוח בסיס נתונים\Common\bin\Debug\Com
 C:\Users\omer\Desktop\שרת לקוח בסיס נתונים\Common\bin\Debug\Common.pdb
 C:\Users\omer\Desktop\שרת לקוח בסיס נתונים\Common\obj\Debug\Common.dll
 C:\Users\omer\Desktop\שרת לקוח בסיס נתונים\Common\obj\Debug\Common.pdb
+C:\Users\omer\Documents\GitHub\medSchd\Common\bin\Debug\Common.dll
+C:\Users\omer\Documents\GitHub\medSchd\Common\bin\Debug\Common.pdb
+C:\Users\omer\Documents\GitHub\medSchd\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+C:\Users\omer\Documents\GitHub\medSchd\Common\obj\Debug\Common.dll
+C:\Users\omer\Documents\GitHub\medSchd\Common\obj\Debug\Common.pdb
