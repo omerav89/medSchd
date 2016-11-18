@@ -19,3 +19,6 @@ C:\Users\omer\Desktop\שרת לקוח בסיס נתונים\prozect_client\bin\D
 C:\Users\omer\Desktop\שרת לקוח בסיס נתונים\prozect_client\bin\Debug\Newtonsoft.Json.xml
 C:\Users\omer\Desktop\שרת לקוח בסיס נתונים\prozect_client\bin\Debug\Common.dll
 C:\Users\omer\Desktop\שרת לקוח בסיס נתונים\prozect_client\bin\Debug\Common.pdb
+C:\Users\KMA\Documents\GitHub\medSchd\prozect_client\bin\Debug\prozect_client.exe.config
+C:\Users\KMA\Documents\GitHub\medSchd\prozect_client\obj\Debug\prozect_client.exe
+C:\Users\KMA\Documents\GitHub\medSchd\prozect_client\obj\Debug\prozect_client.pdb
